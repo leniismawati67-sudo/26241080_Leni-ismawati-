@@ -1,0 +1,13 @@
+Masukan nama: leni ismawati
+Masukan NIM: 26241080
+Program Studi: pti
+2 digit nim: 80
+==========output==========
+Nama: leni ismawati
+NIM: 26241080
+Program Studi: pti
+Dua Digit Terakhir NIM: 80
+Tipe data Nama: <class 'str'>
+Tipe data NIM: <class 'int'>
+Tipe data Program Studi: <class 'str'>
+Tipe data Dua Digit Terakhir NIM: <class 'int'>
